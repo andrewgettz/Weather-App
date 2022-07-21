@@ -9,8 +9,7 @@ For this project, our group decided to create an all in one weather/map applicat
 Screenshot of deployed application (Weather feature)
 
 
-![WMA-1](https://user-images.githubusercontent.com/104395889/178860863-c5c23eda-a271-439a-b2d2-28351c358a55.png)
-
+<img src = './assets/imgs/Screen Shot 2022-07-20 at 8.29.56 PM.png' alt= 'screenshot of live webpage'>
 
 
 Screenshot of deployed application (Map feature)
@@ -24,3 +23,8 @@ Screenshot of JavaScript code
 
 
 ![WMA-Code](https://user-images.githubusercontent.com/104395889/178860934-8bf478c4-7b2d-4b4a-bd6f-6181e2aa5210.png)
+
+
+Webpage - https://andrewgettz.github.io/Weather-App/
+
+Github - https://github.com/andrewgettz/Weather-App
